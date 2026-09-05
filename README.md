@@ -1,4 +1,4 @@
-# Awesome Flight Log Analysis [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Flight Log Analysis [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1020487078.svg)](https://doi.org/10.5281/zenodo.19673351)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -57,9 +57,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Open-Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware)**
-- **[Awesome Swarm Drones](https://github.com/awesomelistsio/awesome-swarm-drones)**
-- **[Awesome UAV Collision Avoidance Systems](https://github.com/awesomelistsio/awesome-uav-collision-avoidance-systems)**
+- **[Awesome Open-Source Drone Firmware](https://github.com/brandonhimpfen/awesome-open-source-drone-firmware)**
+- **[Awesome Swarm Drones](https://github.com/brandonhimpfen/awesome-swarm-drones)**
+- **[Awesome UAV Collision Avoidance Systems](https://github.com/brandonhimpfen/awesome-uav-collision-avoidance-systems)**
   
 ## Contribute
 
