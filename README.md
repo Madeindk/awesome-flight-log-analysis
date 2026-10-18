@@ -43,6 +43,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Airdata UAV](https://airdata.com/) – Cloud-based flight log analysis platform supporting DJI, Autel, Parrot, and others.
 - [DroneLogbook](https://www.dronelogbook.com/) – Online flight logging and analysis service for UAV pilots and fleets.
+- [Easyquadtune](https://easyquadtune.vercel.app) - Betaflight blackbox log analysis: filter changes from the log's noise peaks, PID changes from the measured step response, emitted as a CLI diff. First log free, paid afterwards.
 - [Exmaps](https://www.exmaps.com/) – Flight tracking and analysis platform for drones.
 - [DJI Assistant 2](https://www.dji.com/dji-assistant-2) – Official software for analyzing DJI drone logs.
 
